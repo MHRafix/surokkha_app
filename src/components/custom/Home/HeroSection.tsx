@@ -67,7 +67,7 @@ export const ACTION_BUTTON_DATA = [
     },
     {
         btnName: "faq",
-        btnIcon: <Image src={"/assets/btnIcons/faq.png"} alt="btn icon" width={75} height={72} />,
+        btnIcon: <Image src={"/assets/btnIcons/faq.png"} alt="btn icon" width={45} height={43} />,
         redirectUrl: "https://surokkha.gov.bd/faq",
         badgeColor: "#5fc6cc",
         colorOnHover: "#dafdff"
